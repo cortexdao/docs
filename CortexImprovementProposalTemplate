@@ -1,1 +1,37 @@
-Initial Commit
+CIP: [to be assigned]
+Status: [Discussion -> Proposed]
+Author(s): [a list of author(s) names, usernames]
+Discussions-to: [Create a new thread on https://forum.cortexdao.io/ and drop the link here]
+Created: [date created on MM-DD-YYYY]
+Quorum: 4% of circulating vlCXD supply / 50% of voting vlCXD must be in favor of proposal
+
+--Simple Summary--
+"If you can't explain it simply, you don't understand it well enough." Simply describe the outcome the proposed change intends to achieve. This should be non-technical and accessible to a casual community member.
+
+--Abstract--
+A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what will be done if the CIP is implemented, not why it should be done or how it will be done. If the CIP proposes deploying a new contract, write, "We propose to deploy a new contract that will do x".
+
+--Motivation--
+This is the problem statement. This is the why of the CIP. It should clearly explain why the current state of the protocol is inadequate. It is critical that you explain why the change is needed, if the CIP proposes changing how something is calculated, you must address why the current calculation is inaccurate or wrong. This is not the place to describe how the CIP will address the issue!
+
+~~Specification~~
+
+--Overview--
+This is a high-level overview of how the CIP will solve the problem. The overview should clearly describe how the new feature will be implemented.
+
+--Rationale--
+This is where you explain the reasoning behind how you propose to solve the problem. Why did you propose to implement the change in this way, what were the considerations and trade-offs. The rationale fleshes out what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during the discussion.
+
+--Technical Specification--
+The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces of the CortexDAO currently exposes or the creations of new ones.
+
+~~Voting~~
+
+--FOR:--
+Short description of what a future voter will be voting for.
+
+--AGAINST:--
+Short description of what a future voter will be voting against.
+
+--Copyright--
+Copyright and related rights waived via <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>
